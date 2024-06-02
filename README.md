@@ -14,7 +14,7 @@ This is the mini project movie recommendation, Gives you simple recommendation.
 • jupyter 
 # Dataset
 • Downloded From kaggle
-# algoritham used 
+# algorithm used 
 • Supervised Learning algorithm
 • Content Based Filtering
 # Objectives: 
