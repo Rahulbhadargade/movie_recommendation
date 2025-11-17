@@ -3,7 +3,6 @@ This is the mini project movie recommendation, Gives you simple recommendation. 
 # LANGUAGES USED:
 • For backend- Python
 • For Frontend- HTML,CSS
-• API integration - Flask
 # Libraries used
 • pandas
 • numpy
